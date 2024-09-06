@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1st Post",
+      "datetime": "July 16, 2024 11:10:01 AM",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "2",
+      "title": "2st Post",
+      "datetime": "July 16, 2024 11:10:01 AM",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "3",
+      "title": "3st Post",
+      "datetime": "July 16, 2024 11:10:01 AM",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "4",
+      "title": "4st Post",
+      "datetime": "July 16, 2024 11:10:01 AM",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "6",
+      "title": "sfasf",
+      "datetime": "September 06, 2024 01:01:49 PM",
+      "body": "sdfsdf"
+    },
+    {
+      "id": "7",
+      "title": "fsfd-1",
+      "datetime": "September 06, 2024 02:38:56 PM",
+      "body": "sfdasdfsdf"
+    }
+  ]
+}
